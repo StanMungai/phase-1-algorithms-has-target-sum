@@ -15,6 +15,9 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  The way I have solved this challenge is not optimum.
+  The time complexity would be O(n^2) because its iterating the two for loops.
+  Also with space complexity, each iterated element is stored in a variable which takes a bigger memory
 */
 
 /* 
